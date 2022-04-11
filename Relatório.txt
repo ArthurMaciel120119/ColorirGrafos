@@ -1,0 +1,3 @@
+Na primeira reunião no dia 11/04, criamos nossas Classes : Adjacente, que possui nossa lista de adjacência,
+Grafo,que possui um número de vértices e ultiliza a lista de adjacência e Vértice, que possui um valor e cor;
+  para a implementação do grafo 
